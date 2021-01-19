@@ -1,0 +1,159 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1,
+        2,
+        3
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp E:/Unity projects/Prisoner mockup/Prisoner mockup/Library/Il2cppBuildCache/iOS/il2cppOutput",
+      "Action": "D:\\Unity\\Hub\\Editor\\2020.2.1f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --additional-cpp=\"E:/Unity projects/Prisoner mockup/Prisoner mockup/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp\" --additional-cpp=\"E:/Unity projects/Prisoner mockup/Prisoner mockup/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp\" --avoid-dynamic-library-copy --profiler-report --map-file-parser=D:/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe --directory=\"E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed\" --generatedcppdir=\"E:/Unity projects/Prisoner mockup/Prisoner mockup/Library/Il2cppBuildCache/iOS/il2cppOutput\"",
+      "Inputs": [
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/Assembly-CSharp.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/Mono.Security.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/mscorlib.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/System.Configuration.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/System.Core.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/System.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/System.Xml.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/Unity.Mathematics.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/Unity.RenderPipelines.Core.Runtime.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.UI.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll",
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll"
+      ],
+      "Outputs": [],
+      "TargetDirectories": [
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Library/Il2cppBuildCache/iOS/il2cppOutput"
+      ],
+      "PassIndex": 0,
+      "Deps": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "Copy Additional C++ File E:/Unity projects/Prisoner mockup/Prisoner mockup/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityClassRegistration.cpp",
+      "Action": "copy \"E:\\Unity projects\\Prisoner mockup\\Prisoner mockup\\Library\\Il2cppBuildCache\\iOS\\additionalCppFiles\\UnityClassRegistration.cpp\" \"E:\\Unity projects\\Prisoner mockup\\Prisoner mockup\\Library\\Il2cppBuildCache\\iOS\\il2cppOutput\\UnityClassRegistration.cpp\" && copy /b \"E:\\Unity projects\\Prisoner mockup\\Prisoner mockup\\Library\\Il2cppBuildCache\\iOS\\il2cppOutput\\UnityClassRegistration.cpp\" +,, \"E:\\Unity projects\\Prisoner mockup\\Prisoner mockup\\Library\\Il2cppBuildCache\\iOS\\il2cppOutput\\UnityClassRegistration.cpp\" ",
+      "Inputs": [
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityClassRegistration.cpp"
+      ],
+      "Outputs": [
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityClassRegistration.cpp"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 2
+    },
+    {
+      "Annotation": "Copy Additional C++ File E:/Unity projects/Prisoner mockup/Prisoner mockup/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityICallRegistration.cpp",
+      "Action": "copy \"E:\\Unity projects\\Prisoner mockup\\Prisoner mockup\\Library\\Il2cppBuildCache\\iOS\\additionalCppFiles\\UnityICallRegistration.cpp\" \"E:\\Unity projects\\Prisoner mockup\\Prisoner mockup\\Library\\Il2cppBuildCache\\iOS\\il2cppOutput\\UnityICallRegistration.cpp\" && copy /b \"E:\\Unity projects\\Prisoner mockup\\Prisoner mockup\\Library\\Il2cppBuildCache\\iOS\\il2cppOutput\\UnityICallRegistration.cpp\" +,, \"E:\\Unity projects\\Prisoner mockup\\Prisoner mockup\\Library\\Il2cppBuildCache\\iOS\\il2cppOutput\\UnityICallRegistration.cpp\" ",
+      "Inputs": [
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Library/Il2cppBuildCache/iOS/additionalCppFiles/UnityICallRegistration.cpp"
+      ],
+      "Outputs": [
+        "E:/Unity projects/Prisoner mockup/Prisoner mockup/Library/Il2cppBuildCache/iOS/il2cppOutput/UnityICallRegistration.cpp"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "Deps": [
+        1
+      ],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 3
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../Temp/StagingArea/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../Temp/StagingArea/Data/Managed"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
